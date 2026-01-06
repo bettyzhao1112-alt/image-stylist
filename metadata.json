@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Image Stylist",
+  "description": "Transform your photos into 5 distinct artistic styles or apply custom AI-powered edits using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
